@@ -4,15 +4,13 @@ This SQL and Power BI project is a comprehensive Human Resource analytics dashbo
 
 > Features
 
-- **Employee Overview**: Headcount by department, job role, and status.
+- **Employee Overview**: Headcount by department,
+job role, and status.
 - **Attrition Analysis**: Tracks termination trends, voluntary vs involuntary exits, and average tenure.
 - **Demographics Breakdown**: Age groups, gender ratio, marital status, and region-wise distribution.
 - **Hiring Trends**: Year-wise and department-wise hiring performance.
 - **Data-Driven Insights**: Designed to support HR policy evaluation and strategic planning.
 
-## File
-
-- `Project Hr Final Dashboard.pbix` - Power BI report file with all dashboards and data modeling.
 
 ## Tools & Technologies
 - SQL
@@ -26,7 +24,7 @@ To create an interactive and insightful dashboard for HR departments to monitor 
 
 ##  Preview
 
-
+ ![Project_hr screanshot](https://github.com/user-attachments/assets/c416309d-1de5-4e3a-bc83-c55b4eb6ea12)
 
 ##  Future Enhancements
 
@@ -38,5 +36,5 @@ To create an interactive and insightful dashboard for HR departments to monitor 
 
 **Tariqul Islam**  
 HRM Enthusiast | Data Analytics Learner  
-[LinkedIn](https://www.linkedin.com) (add your profile link)
+
 
