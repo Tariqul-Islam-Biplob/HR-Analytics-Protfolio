@@ -10,7 +10,9 @@ job role, and status.
 - **Demographics Breakdown**: Age groups, gender ratio, marital status, and region-wise distribution.
 - **Hiring Trends**: Year-wise and department-wise hiring performance.
 - **Data-Driven Insights**: Designed to support HR policy evaluation and strategic planning.
+##  Preview
 
+ ![Project_hr screanshot](https://github.com/user-attachments/assets/c416309d-1de5-4e3a-bc83-c55b4eb6ea12)
 
 ## Tools & Technologies
 - SQL
@@ -22,9 +24,7 @@ job role, and status.
 
 To create an interactive and insightful dashboard for HR departments to monitor and optimize workforce-related operations and policies. This project serves as a portfolio demonstration for data visualization and HR analytics skills.
 
-##  Preview
 
- ![Project_hr screanshot](https://github.com/user-attachments/assets/c416309d-1de5-4e3a-bc83-c55b4eb6ea12)
 
 ##  Future Enhancements
 
